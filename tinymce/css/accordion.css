@@ -1,0 +1,11 @@
+#accordion_title,
+#accordion_content {
+    padding:3px;
+    font-size:100%;
+}
+.title_help {
+    font-style: italic;
+    font-size:90%;
+    margin-left:45px;
+    color: #DA5013;
+}

@@ -1,4 +1,4 @@
-moodle-tinymce_moodleaccordion
+moodle-tinymce_accordion
 ==============================
 
 TinyMCE accordion plugin for Moodle

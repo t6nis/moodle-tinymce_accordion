@@ -10,8 +10,8 @@
             ed.addCommand('mceAccordion', function() {
                 ed.windowManager.open({
                     file : url + '/accordion.htm',
-                    width : 490 + parseInt(ed.getLang('accordion.delta_width', 0)),
-                    height : 310 + parseInt(ed.getLang('accordion.delta_height', 0)),
+                    width : 500 + parseInt(ed.getLang('accordion.delta_width', 0)),
+                    height : 330 + parseInt(ed.getLang('accordion.delta_height', 0)),
                     inline : 1
                 }, {
                     plugin_url : url
